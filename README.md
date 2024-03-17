@@ -1,6 +1,6 @@
 # CLING-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ; WITH+HELP+OF+SUHAIL; ...;TEAM WHIZ." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ; WITH+HELP+OF+K-TEY❤️❤️; ...;TEAM WHIZ." alt="Typing SVG" /></a>
   </p>
   <br>
    
