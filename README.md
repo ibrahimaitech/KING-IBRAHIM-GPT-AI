@@ -1,6 +1,6 @@
 # CLING-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ; WITH+HELP+OF+MYSELF😂😂😂+ENJOY; ...;TEAM WHIZ." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ; HOPE+YOU+ENJOY+IT;STAR+IF+YOU;LIKE+IT;....:THANKS; ...;TEAM WHIZ." alt="Typing SVG" /></a>
   </p>
   <br>
    
@@ -76,11 +76,9 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/scan) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).
-
-
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
+2. ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
+3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
+4. ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
 
 
 ##
@@ -95,7 +93,15 @@
 </h2>
    
 ## 
-- *Cling-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Cling-Md is not made by `WhatsApp Inc.
+-│█𓅓𝙒𝞖𝞘𝙕_𝙆-𝙏𝙀𝙔 𓅓█│
+✅ Bot features 👇👇👇
+✅Keeps your account online (can be turned on and off)
+✅Auto views status updates 24/7( can be turned on and off)
+✅Auto reacts to incoming messages (can be turned on and off)
+✅Auto reads messages(can be turned on and off)
+✅ChatGpt feature ***AND MANY MORE***
+- ` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Cling-Md at your own risk by keeping this warning in mind.*
 
